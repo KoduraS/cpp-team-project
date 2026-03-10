@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-// komentarz B
-//A
+
 int add(int a, int b) { 
    return a + b; 
 } 
