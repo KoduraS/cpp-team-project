@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+ // komentarz C
 int add(int a, int b) { 
    return a + b; 
 } 
