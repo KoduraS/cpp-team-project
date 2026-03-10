@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// komentarz B
 int subtract(int a, int b){
 	return a - b;
 }
